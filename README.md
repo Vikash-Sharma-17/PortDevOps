@@ -1,3 +1,3 @@
 #Portfolio Website
--Made by Dhuriya Ankit
+-Made by Rishav Raj
 
